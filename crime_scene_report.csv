@@ -1,0 +1,287 @@
+index_report,date,crime_type,description,city
+4,5092023,forgery,A sophisticated forgery operation is traced back to Layla.,atom-city
+15,3092023,murder,"Security footage shows that there were 2 witnesses. The first witness lives  at the last house in ""Saddar Bazaar Rawalpindi"". The second witness  named Sanam Akhtar lives somewhere on ""Gulshan-e-Ravi Lahore"".",atom-city
+25,2122023,blackmail,Blackmail victimizes Grace.,atom-city
+51,9162023,theft,A mysterious figure named Alex committed a theft in broad daylight.,atom-city
+63,4252023,fraud,A high-profile fraud case implicates Mason as the mastermind.,atom-city
+68,6152023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,atom-city
+69,7032023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",atom-city
+80,9192023,kidnap,Kidnappers target Nathan's family.,atom-city
+84,1272023,bribery,The mayor was caught in a bribery scandal involving Lucas.,atom-city
+90,1142023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",atom-city
+124,6282023,bribery,The mayor was caught in a bribery scandal involving Ava.,atom-city
+139,9032023,fraud,A high-profile fraud case implicates Emily as the mastermind.,atom-city
+141,6202023,fraud,A high-profile fraud case implicates Michael as the mastermind.,atom-city
+142,8242023,fraud,A high-profile fraud case implicates Michael as the mastermind.,atom-city
+143,11302023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,atom-city
+145,6202023,bribery,The mayor was caught in a bribery scandal involving Lucas.,atom-city
+149,9242023,theft,A mysterious figure named John committed a theft in broad daylight.,atom-city
+156,3232023,fraud,A high-profile fraud case implicates Ryan as the mastermind.,atom-city
+160,10192023,theft,A mysterious figure named Alex committed a theft in broad daylight.,atom-city
+189,6212023,theft,A mysterious figure named Alex committed a theft in broad daylight.,atom-city
+223,5222023,bribery,The mayor was caught in a bribery scandal involving Emma.,atom-city
+236,9102023,bribery,The mayor was caught in a bribery scandal involving Lucas.,atom-city
+238,9042023,bribery,The mayor was caught in a bribery scandal involving Ava.,atom-city
+243,5042023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,atom-city
+254,3192023,blackmail,Blackmail victimizes Grace.,atom-city
+258,11082023,theft,A mysterious figure named Alex committed a theft in broad daylight.,atom-city
+259,2252023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",atom-city
+266,8072023,kidnap,Abductors target Avery's family.,atom-city
+274,1192023,bribery,The mayor was caught in a bribery scandal involving Ava.,atom-city
+281,3122023,theft,A mysterious figure named Emma committed a theft in broad daylight.,atom-city
+283,2102023,robbery,"In a daring robbery, Olivia stole valuable artifacts from the museum.",atom-city
+284,2012023,murder,A murder mystery baffles investigators as James is found dead in their home.,atom-city
+6,9022023,bribery,The mayor was caught in a bribery scandal involving Lucas.,berlin
+24,7172023,forgery,A sophisticated forgery operation is traced back to Ethan.,berlin
+28,4282023,bribery,The mayor was caught in a bribery scandal involving Lucas.,berlin
+45,1282023,arson,"An elaborate arson plot unfolded, orchestrated by Amelia.",berlin
+52,10292023,forgery,A sophisticated forgery operation is traced back to Jackson.,berlin
+72,10072023,kidnap,Kidnappers target Nathan's family.,berlin
+101,11222023,blackmail,Blackmail victimizes Scarlett.,berlin
+115,9052023,smuggling,Authorities uncovered a smuggling operation led by Aria.,berlin
+146,5242023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,berlin
+152,9282023,bribery,The mayor was caught in a bribery scandal involving Ava.,berlin
+154,6222023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,berlin
+163,8272023,fraud,A high-profile fraud case implicates Emily as the mastermind.,berlin
+167,11072023,theft,A mysterious figure named John committed a theft in broad daylight.,berlin
+170,11272023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",berlin
+177,10082023,bribery,The mayor was caught in a bribery scandal involving Ava.,berlin
+182,9012023,arson,"An elaborate arson plot unfolded, orchestrated by Liam.",berlin
+191,3082023,robbery,"In a daring robbery, Olivia stole valuable artifacts from the museum.",berlin
+193,3092023,forgery,A sophisticated forgery operation is traced back to Madison.,berlin
+194,3052023,,Abductors target Nathan's family.,berlin
+206,9092023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",berlin
+213,3012023,blackmail,Blackmail victimizes Grace.,berlin
+215,11102023,bribery,The mayor was caught in a bribery scandal involving Ava.,berlin
+216,7132023,arson,"An elaborate arson plot unfolded, orchestrated by Amelia.",berlin
+237,7082023,kidnap,Kidnappers target Evelyn's family.,berlin
+245,3082023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,berlin
+251,7252023,bribery,The mayor was caught in a bribery scandal involving Sophia.,berlin
+253,2102023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",berlin
+262,10202023,bribery,The mayor was caught in a bribery scandal involving Ava.,berlin
+264,7212023,murder,A murder mystery baffles investigators as James is found dead in their home.,berlin
+268,9162023,blackmail,Blackmail victimizes Grace.,berlin
+7,10182023,kidnap,Kidnappers target Hannah's family.,gujranwala
+20,8072023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",gujranwala
+26,8132023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,gujranwala
+29,1242023,fraud,A high-profile fraud case implicates Michael as the mastermind.,gujranwala
+33,1252023,theft,A mysterious figure named Sophia committed a theft in broad daylight.,gujranwala
+44,11182023,forgery,A sophisticated forgery operation is traced back to Jackson.,gujranwala
+48,11062023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",gujranwala
+59,5162023,kidnap,Kidnappers target Avery's family.,gujranwala
+60,8092023,blackmail,Blackmail victimizes Aurora.,gujranwala
+61,10162023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,gujranwala
+66,7052023,blackmail,Blackmail victimizes Caleb.,gujranwala
+75,1212023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,gujranwala
+92,7122023,robbery,"In a daring robbery, Liam stole valuable artifacts from the museum.",gujranwala
+98,9092023,arson,"An elaborate arson plot unfolded, orchestrated by Amelia.",gujranwala
+99,4222023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,gujranwala
+109,11072023,robbery,"In a daring robbery, Noah stole valuable artifacts from the museum.",gujranwala
+111,2122023,forgery,A sophisticated forgery operation is traced back to Madison.,gujranwala
+164,3142023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",gujranwala
+166,9282023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,gujranwala
+171,8242023,murder,A murder mystery baffles investigators as Chloe is found dead in their home.,gujranwala
+179,7122023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",gujranwala
+183,9082023,robbery,"In a daring robbery, Liam stole valuable artifacts from the museum.",gujranwala
+184,7022023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,gujranwala
+190,5072023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",gujranwala
+195,2212023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",gujranwala
+196,1142023,forgery,A sophisticated forgery operation is traced back to Jackson.,gujranwala
+200,11072023,forgery,A sophisticated forgery operation is traced back to Madison.,gujranwala
+208,5072023,murder,A murder mystery baffles investigators as James is found dead in their home.,gujranwala
+217,1052023,bribery,The mayor was caught in a bribery scandal involving Sophia.,gujranwala
+219,7092023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,gujranwala
+257,6112023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,gujranwala
+117,8042023,,Extortion victimizes Aurora.,hyderabad
+11,3052023,robbery,"In a daring robbery, Olivia stole valuable artifacts from the museum.",islamabad
+17,9262023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",islamabad
+21,10062023,murder,A murder mystery baffles investigators as Lily is found dead in their home.,islamabad
+62,3112023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,islamabad
+76,10282023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,islamabad
+77,3122023,forgery,A sophisticated forgery operation is traced back to Madison.,islamabad
+78,6242023,theft,A mysterious figure named Emma committed a theft in broad daylight.,islamabad
+79,11262023,theft,A mysterious figure named Alex committed a theft in broad daylight.,islamabad
+87,9162023,bribery,The mayor was caught in a bribery scandal involving Lucas.,islamabad
+91,8142023,forgery,A sophisticated forgery operation is traced back to Emma.,islamabad
+100,11282023,blackmail,Blackmail victimizes Aurora.,islamabad
+104,6242023,theft,A mysterious figure named Emma committed a theft in broad daylight.,islamabad
+116,10192023,forgery,A sophisticated forgery operation is traced back to Ethan.,islamabad
+118,4092023,bribery,The mayor was caught in a bribery scandal involving Emma.,islamabad
+123,9052023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",islamabad
+126,1042023,kidnap,Kidnappers target Avery's family.,islamabad
+150,1112023,fraud,A high-profile fraud case implicates Mason as the mastermind.,islamabad
+155,7222023,bribery,The mayor was caught in a bribery scandal involving Sophia.,islamabad
+181,9212023,,Abductors target Hannah's family.,islamabad
+185,3092023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",islamabad
+188,2122023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,islamabad
+209,5132023,murder,A murder mystery baffles investigators as Chloe is found dead in their home.,islamabad
+229,6012023,,Abductors target Avery's family.,islamabad
+241,3042023,bribery,The mayor was caught in a bribery scandal involving Oliver.,islamabad
+263,8112023,harrasment,Extortion victimizes Grace.,islamabad
+265,9092023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,islamabad
+272,8012023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,islamabad
+277,5232023,kidnap,Abductors target Evelyn's family.,islamabad
+8,10092023,forgery,A sophisticated forgery operation is traced back to Jackson.,lahore
+37,8272023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,lahore
+39,8242023,smuggling,Authorities uncovered a smuggling operation led by Aria.,lahore
+40,7172023,bribery,The mayor was caught in a bribery scandal involving Lucas.,lahore
+46,3162023,forgery,A sophisticated forgery operation is traced back to Layla.,lahore
+49,9112023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",lahore
+55,8222023,theft,A mysterious figure named John committed a theft in broad daylight.,lahore
+74,3172023,forgery,A sophisticated forgery operation is traced back to Jackson.,lahore
+88,5202023,bribery,The mayor was caught in a bribery scandal involving Lucas.,lahore
+93,10102023,,Extortion victimizes Grace.,lahore
+107,6282023,smuggling,Authorities uncovered a smuggling operation led by Aria.,lahore
+108,4102023,,Abductors target Gabriel's family.,lahore
+135,1232023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,lahore
+136,1302023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,lahore
+138,6122023,forgery,A sophisticated forgery operation is traced back to Ethan.,lahore
+168,8202023,smuggling,Authorities uncovered a smuggling operation led by Henry.,lahore
+172,10102023,murder,A murder mystery baffles investigators as Lily is found dead in their home.,lahore
+178,2242023,theft,A mysterious figure named John committed a theft in broad daylight.,lahore
+192,5012023,forgery,A sophisticated forgery operation is traced back to Madison.,lahore
+202,5182023,bribery,The mayor was caught in a bribery scandal involving Sophia.,lahore
+212,6102023,theft,A mysterious figure named Alex committed a theft in broad daylight.,lahore
+214,9162023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",lahore
+218,4182023,fraud,A high-profile fraud case implicates Mason as the mastermind.,lahore
+231,4182023,robbery,"In a daring robbery, Olivia stole valuable artifacts from the museum.",lahore
+239,6302023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",lahore
+242,4102023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",lahore
+248,1182023,theft,A mysterious figure named John committed a theft in broad daylight.,lahore
+261,3112023,kidnap,Abductors target Nathan's family.,lahore
+270,4162023,blackmail,Blackmail victimizes Aurora.,lahore
+286,4132023,blackmail,Blackmail victimizes Scarlett.,lahore
+3,4042023,theft,A mysterious figure named John committed a theft in broad daylight.,long-beach
+16,8172023,,Extortion victimizes Logan.,long-beach
+121,5222023,,Extortion victimizes Aurora.,long-beach
+47,8152023,bribery,The mayor was caught in a bribery scandal involving Lucas.,multan
+64,7212023,blackmail,Blackmail victimizes Logan.,multan
+70,10142023,kidnap,Kidnappers target Hannah's family.,multan
+83,11282023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",multan
+85,10132023,robbery,"In a daring robbery, Liam stole valuable artifacts from the museum.",multan
+95,9012023,blackmail,Blackmail victimizes Caleb.,multan
+96,1022023,,Extortion victimizes Logan.,multan
+97,9302023,bribery,The mayor was caught in a bribery scandal involving Ava.,multan
+103,2132023,murder,A murder mystery baffles investigators as James is found dead in their home.,multan
+114,9192023,theft,A mysterious figure named Emma committed a theft in broad daylight.,multan
+119,8122023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",multan
+125,11072023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",multan
+127,10122023,smuggling,Authorities uncovered a smuggling operation led by Aria.,multan
+148,7172023,kidnap,Kidnappers target Hannah's family.,multan
+153,11222023,fraud,A high-profile fraud case implicates Emily as the mastermind.,multan
+159,4162023,fraud,A high-profile fraud case implicates Emily as the mastermind.,multan
+165,3212023,bribery,The mayor was caught in a bribery scandal involving Sophia.,multan
+169,1262023,,Abductors target Avery's family.,multan
+175,11082023,kidnap,Kidnappers target Avery's family.,multan
+186,4122023,murder,A murder mystery baffles investigators as Lily is found dead in their home.,multan
+197,9102023,murder,A murder mystery baffles investigators as Lily is found dead in their home.,multan
+203,9142023,smuggling,Authorities uncovered a smuggling operation led by Henry.,multan
+222,9012023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,multan
+235,1242023,theft,A mysterious figure named Sophia committed a theft in broad daylight.,multan
+247,6272023,robbery,"In a daring robbery, Noah stole valuable artifacts from the museum.",multan
+250,11112023,theft,A mysterious figure named Sophia committed a theft in broad daylight.,multan
+280,8062023,kidnap,Abductors target Nathan's family.,multan
+282,11262023,forgery,A sophisticated forgery operation is traced back to Madison.,multan
+1,11092023,kidnap,Kidnappers target Hannah's family.,newyork
+12,5052023,kidnap,Kidnappers target Avery's family.,newyork
+14,2032023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,newyork
+41,2012023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,newyork
+94,5202023,bribery,The mayor was caught in a bribery scandal involving Lucas.,newyork
+102,7192023,bribery,The mayor was caught in a bribery scandal involving Ava.,newyork
+113,4042023,,Extortion victimizes Aurora.,newyork
+120,11232023,blackmail,Blackmail victimizes Grace.,newyork
+130,4092023,blackmail,Blackmail victimizes Aurora.,newyork
+131,8062023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",newyork
+134,5212023,forgery,A sophisticated forgery operation is traced back to Jackson.,newyork
+204,1302023,bribery,The mayor was caught in a bribery scandal involving Sophia.,newyork
+205,10122023,theft,A mysterious figure named John committed a theft in broad daylight.,newyork
+224,11072023,,Extortion victimizes Logan.,newyork
+225,2012023,bribery,The mayor was caught in a bribery scandal involving Emma.,newyork
+252,1072023,theft,A mysterious figure named John committed a theft in broad daylight.,newyork
+255,9222023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",newyork
+269,11102023,theft,A mysterious figure named Alex committed a theft in broad daylight.,newyork
+278,1082023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",newyork
+279,11242023,bribery,The mayor was caught in a bribery scandal involving Lucas.,newyork
+2,8232023,forgery,A sophisticated forgery operation is traced back to Jackson.,peshawar
+5,1232023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,peshawar
+13,9022023,forgery,A sophisticated forgery operation is traced back to Madison.,peshawar
+23,4162023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",peshawar
+38,6022023,,Extortion victimizes Scarlett.,peshawar
+50,5032023,smuggling,Authorities uncovered a smuggling operation led by Henry.,peshawar
+53,3192023,arson,"An elaborate arson plot unfolded, orchestrated by Liam.",peshawar
+54,9062023,forgery,A sophisticated forgery operation is traced back to Layla.,peshawar
+58,8102023,robbery,"In a daring robbery, Noah stole valuable artifacts from the museum.",peshawar
+65,7152023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",peshawar
+86,11092023,murder,A murder mystery baffles investigators as James is found dead in their home.,peshawar
+137,9182023,,Abductors target Gabriel's family.,peshawar
+144,5102023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,peshawar
+147,7042023,arson,"An elaborate arson plot unfolded, orchestrated by Liam.",peshawar
+151,1012023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",peshawar
+176,1022023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,peshawar
+198,4212023,forgery,A sophisticated forgery operation is traced back to Jackson.,peshawar
+201,11292023,murder,A murder mystery baffles investigators as William is found dead in their home.,peshawar
+210,8282023,arson,"An elaborate arson plot unfolded, orchestrated by Liam.",peshawar
+211,3162023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,peshawar
+220,2162023,blackmail,Blackmail victimizes Caleb.,peshawar
+221,2182023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",peshawar
+226,1052023,fraud,A high-profile fraud case implicates Sophie as the mastermind.,peshawar
+240,8092023,robbery,"In a daring robbery, Ava stole valuable artifacts from the museum.",peshawar
+246,9182023,robbery,"In a daring robbery, Noah stole valuable artifacts from the museum.",peshawar
+271,10142023,kidnap,Abductors target Hannah's family.,peshawar
+285,4292023,murder,A murder mystery baffles investigators as James is found dead in their home.,peshawar
+9,2122023,forgery,A sophisticated forgery operation is traced back to Emma.,polix-analytics-city
+30,9282023,fraud,A high-profile fraud case implicates Ryan as the mastermind.,polix-analytics-city
+31,6112023,murder,A murder mystery baffles investigators as Lily is found dead in their home.,polix-analytics-city
+42,4092023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,polix-analytics-city
+43,8282023,robbery,"In a daring robbery, Liam stole valuable artifacts from the museum.",polix-analytics-city
+57,4122023,blackmail,Blackmail victimizes Aurora.,polix-analytics-city
+71,5122023,theft,A mysterious figure named Emma committed a theft in broad daylight.,polix-analytics-city
+73,6052023,robbery,"In a daring robbery, Olivia stole valuable artifacts from the museum.",polix-analytics-city
+89,10182023,theft,A mysterious figure named John committed a theft in broad daylight.,polix-analytics-city
+105,11112023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",polix-analytics-city
+106,9142023,arson,"An elaborate arson plot unfolded, orchestrated by Ethan.",polix-analytics-city
+110,1222023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,polix-analytics-city
+112,4132023,smuggling,Authorities uncovered a smuggling operation led by Aria.,polix-analytics-city
+122,7302023,bribery,The mayor was caught in a bribery scandal involving Ava.,polix-analytics-city
+129,2182023,blackmail,Blackmail victimizes Caleb.,polix-analytics-city
+140,9042023,bribery,The mayor was caught in a bribery scandal involving Sophia.,polix-analytics-city
+158,7142023,,Abductors target Nathan's family.,polix-analytics-city
+161,10112023,robbery,"In a daring robbery, Isabella stole valuable artifacts from the museum.",polix-analytics-city
+162,8132023,arson,"An elaborate arson plot unfolded, orchestrated by Liam.",polix-analytics-city
+173,1282023,fraud,A high-profile fraud case implicates Ryan as the mastermind.,polix-analytics-city
+180,10262023,fraud,A high-profile fraud case implicates Michael as the mastermind.,polix-analytics-city
+187,3072023,fraud,A high-profile fraud case implicates Michael as the mastermind.,polix-analytics-city
+199,1032023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,polix-analytics-city
+207,3152023,fraud,A high-profile fraud case implicates Michael as the mastermind.,polix-analytics-city
+227,8132023,forgery,A sophisticated forgery operation is traced back to Layla.,polix-analytics-city
+232,8042023,robbery,"In a daring robbery, Noah stole valuable artifacts from the museum.",polix-analytics-city
+233,8222023,smuggling,Authorities uncovered a smuggling operation led by Benjamin.,polix-analytics-city
+249,6032023,murder,A murder mystery baffles investigators as Jack is found dead in their home.,polix-analytics-city
+256,9042023,theft,A mysterious figure named Alex committed a theft in broad daylight.,polix-analytics-city
+267,7022023,blackmail,Blackmail victimizes Scarlett.,polix-analytics-city
+273,4022023,forgery,A sophisticated forgery operation is traced back to Madison.,polix-analytics-city
+275,1112023,murder,A murder mystery baffles investigators as James is found dead in their home.,polix-analytics-city
+276,9262023,forgery,A sophisticated forgery operation is traced back to Ethan.,polix-analytics-city
+10,2062023,theft,A mysterious figure named Alex committed a theft in broad daylight.,wecamp-city
+18,9212023,forgery,A sophisticated forgery operation is traced back to Ethan.,wecamp-city
+19,3042023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,wecamp-city
+22,10292023,,Abductors target Nathan's family.,wecamp-city
+27,5222023,murder,A murder mystery baffles investigators as Chloe is found dead in their home.,wecamp-city
+32,9012023,theft,A mysterious figure named Daniel committed a theft in broad daylight.,wecamp-city
+34,4162023,forgery,A sophisticated forgery operation is traced back to Layla.,wecamp-city
+35,4022023,murder,A murder mystery baffles investigators as William is found dead in their home.,wecamp-city
+36,4212023,robbery,"In a daring robbery, Liam stole valuable artifacts from the museum.",wecamp-city
+56,9272023,forgery,A sophisticated forgery operation is traced back to Jackson.,wecamp-city
+67,11272023,murder,A murder mystery baffles investigators as James is found dead in their home.,wecamp-city
+81,6112023,,Abductors target Evelyn's family.,wecamp-city
+82,11022023,arson,"An elaborate arson plot unfolded, orchestrated by Mia.",wecamp-city
+128,8042023,bribery,The mayor was caught in a bribery scandal involving Lucas.,wecamp-city
+132,6262023,smuggling,Authorities uncovered a smuggling operation led by Zoe.,wecamp-city
+133,3142023,,Extortion victimizes Grace.,wecamp-city
+157,8092023,blackmail,Blackmail victimizes Logan.,wecamp-city
+174,1282023,arson,"An elaborate arson plot unfolded, orchestrated by Jackson.",wecamp-city
+228,2082023,forgery,A sophisticated forgery operation is traced back to Ethan.,wecamp-city
+230,1102023,forgery,A sophisticated forgery operation is traced back to Jackson.,wecamp-city
+234,1152023,theft,A mysterious figure named Emma committed a theft in broad daylight.,wecamp-city
+244,9292023,,Extortion victimizes Caleb.,wecamp-city
+260,11152023,fraud,A high-profile fraud case implicates Michael as the mastermind.,wecamp-city

@@ -1,0 +1,101 @@
+license_id,age,height,eye_color,hair_color,gender,plate_number,car_make,car_model
+281432,71,"5'11""",brown,red,male,SWL9850,Range Rover,MDX
+353803,54,"5'6""",brown,brown,female,LH5782,V8-Toyota,SRX
+321362,39,"5'7""",green,green,female,AER6569,Alto,xB
+662417,38,"4'3""",amber,brown,female,PES3638,V8-Toyota,Rogue
+573532,60,"4'2""",blue,grey,female,LH9135,Mercedes,Benz
+614885,24,"5'10""",blue,red,female,LEF4103,Kia ,Sportage
+908706,65,"4'1""",brown,blue,male,ABW7733,Cherry,Range Rover Royal
+870807,59,"5'6""",amber,brown,male,ABW3535,Cherry,XK
+641569,45,"6'8""",blue,white,female,LH8352,Range Rover,Sierra Denali
+433382,60,"6'1""",blue,grey,female,LEF1928,Mercedes,Benz
+171424,55,"5'9""",light-blue,black,male,LHR7303,Audi,R6
+288579,29,"4'7""",blue,blue,female,PES2732,Cherry,Intrigue
+375280,53,"4'0""",amber,black,female,SWL2472,Audi,Express 1500
+901931,63,"4'11""",amber,green,female,AER5530,Porsche,Matrix
+334595,37,"5'2""",blue,grey,female,LHR8993,Range Rover,Azera
+479216,43,"4'5""",blue,blonde,female,LHR7435,Haval,Pathfinder
+223698,39,"4'8""",green,blonde,male,LHR7303,Kia Sportage,350Z
+351718,69,"4'0""",amber,brown,male,ABW8814,Alto,E-Series
+643162,46,"4'2""",blue,blonde,female,LEF7670,Altis,Savana 3500
+629538,71,"4'4""",green,white,male,LH3371,Porsche,S-Series
+566257,53,"5'3""",black,green,female,PES2841,Altis,Ram Van 3500
+152478,35,"5'9""",blue,blonde,male,LH2886,Audi,F350
+616391,41,"4'1""",blue,blonde,male,PES2767,Altis,Grand Vitara
+709059,45,"5'10""",black,blue,female,AER5967,Civic,LaCrosse
+282435,40,"6'9""",black,blonde,female,LEF6818,Range Rover,Regal
+443494,39,"5'1""",blue,blue,male,LHR7925,Altis,Trailblazer
+245401,41,"4'7""",blue,blue,female,AER2734,Kia Sportage,Savana 1500
+207684,63,"6'2""",brown,red,male,PES8546,Civic,Insight
+661560,58,"6'7""",blue,white,male,LHR3312,Alto,Cutlass
+171914,47,"4'7""",brown,blonde,male,PES9851,V8-Toyota,Focus
+565260,33,"6'11""",blue,grey,female,PES2555,Porsche,Ram Van 2500
+591736,50,"4'11""",amber,red,female,ABW9134,Haval,9-7X
+699930,25,"5'5""",brown,black,female,LHR1623,Haval,VehiCROSS
+649138,53,"5'0""",brown,blonde,female,LHR1488,Alto,E250
+102779,47,"6'6""",amber,white,male,SWL8614,Civic,F-Series Super Duty
+979388,42,"4'7""",black,black,female,SWL1734,Audi,Corolla
+391126,49,"4'4""",black,green,female,ABW3208,Cherry,Freelander
+748654,69,"5'1""",black,blue,female,AER6218,Altis,S-Class
+673864,27,"4'5""",brown,white,male,ABW7450,Cherry,Charger
+225704,27,"4'9""",blue,green,male,LEF9154,Haval,Ram 3500
+927192,31,"6'7""",brown,black,female,LHR5528,Porsche,Envoy
+859408,33,"4'9""",blue,black,male,PES9327,Porsche,E-Series
+680215,19,"6'8""",black,green,male,AER2183,Kia Sportage,SRX
+924788,29,"4'6""",black,blonde,female,SWL2749,Altis,XC90
+193288,33,"4'11""",blue,black,male,ABW3561,Cherry,Discovery
+977641,47,"4'3""",brown,green,male,LHR3535,Kia Sportage,TSX
+434107,65,"6'9""",black,blue,male,LHR8646,Alto,SL-Class
+381947,69,"6'8""",blue,black,male,SWL6659,Range Rover,Range Rover Sport
+656533,67,"4'8""",black,green,male,LHR8131,Civic,Montero
+167115,45,"4'10""",green,white,female,AER6413,Civic,Sierra 2500
+222165,66,"4'11""",brown,black,female,SWL4514,Alto,Silhouette
+782319,45,"5'8""",amber,blonde,female,LEF2410,Alto,Mazdaspeed 3
+920882,36,"4'4""",amber,grey,female,PES3459,Range Rover,760
+842728,63,"4'4""",black,red,male,LEF8680,Haval,Grand Cherokee
+704263,36,"4'9""",green,white,male,LEF6952,Alto,Suburban 1500
+984059,49,"4'11""",black,white,female,AER7960,Range Rover,V70
+144257,55,"5'7""",amber,white,female,AER2614,Haval,C-Class
+935746,60,"6'6""",green,green,female,SWL3591,Porsche,Liberty
+732082,48,"5'4""",brown,white,female,LHR6584,Porsche,Armada
+293983,28,"5'0""",black,brown,female,ABW5537,Civic,Navigator
+991554,20,"6'10""",black,blonde,male,LH1756,Range Rover,Murano
+980235,52,"4'1""",green,blonde,female,LH6883,Porsche,Cabriolet
+863355,57,"4'1""",green,red,female,AER9804,Altis,Grand Cherokee
+941458,21,"5'4""",green,red,male,LEF6885,Kia Sportage,Discovery Series II
+327737,67,"5'11""",amber,blue,male,LEF5336,Haval,Monte Carlo
+419749,42,"5'8""",black,green,male,SWL6019,Range Rover,CX-9
+542447,49,"5'7""",brown,brown,female,PES2726,Haval,M-Class
+952384,32,"5'0""",green,blonde,female,SWL6746,Audi,Navigator
+238903,53,"4'11""",green,red,male,LH8675,Audi,LaCrosse
+570911,22,"6'0""",brown,red,male,LH4685,Cherry,Escape
+515695,29,"4'8""",green,white,male,SWL3292,Haval,Dakota
+239247,52,"6'3""",green,blue,male,ABW9678,Porsche,Pajero
+406034,37,"4'10""",brown,grey,female,LH6559,Haval,Rabbit
+596262,59,"4'0""",green,black,female,LEF6778,Civic,XL-7
+450782,66,"6'0""",amber,blue,male,LHR1345,Altis,Cavalier
+965544,50,"6'1""",brown,brown,female,AER2575,Altis,F150
+146094,29,"4'1""",blue,grey,male,LEF8784,Cherry,Forester
+732604,39,"4'11""",amber,blonde,male,LH2343,Alto,Aura
+433460,26,"6'7""",green,green,female,PES2679,Audi,R-Class
+913240,31,"4'5""",brown,red,female,PES8460,Alto,Thunderbird
+678173,51,"6'3""",brown,brown,female,ABW9798,Kia Sportage,Cherokee
+493022,72,"6'9""",green,blue,male,SWL2190,Range Rover,G
+222021,34,"5'4""",blue,brown,male,LHR8374,Haval,Silverado 2500
+780515,63,"6'5""",green,black,male,LEF8419,Range Rover,Tahoe
+268601,49,"5'8""",brown,green,female,PES5849,V8-Toyota,Z8
+310872,23,"6'8""",brown,grey,female,AER8171,V8-Toyota,CC
+350212,70,"4'2""",amber,blue,male,AER5929,Kia Sportage,5 Series
+163659,27,"4'4""",brown,white,male,LHR6767,Kia Sportage,300M
+658249,40,"6'11""",green,blue,male,LH2308,Audi,Excursion
+322253,46,"6'7""",green,green,male,LEF6315,Cherry,Silverado
+282639,62,"6'2""",green,brown,male,LHR5997,Range Rover,Colorado
+831800,26,"6'3""",green,brown,female,ABW3785,Cherry,Yukon XL 2500
+777694,66,"5'4""",green,brown,male,AER1069,Civic,E-Series
+889822,58,"6'9""",black,green,female,AER9328,Oldsmobile,Newage
+443227,20,"5'6""",black,red,female,ABW7743,Dodge,Ram 1500
+586037,23,"6'10""",green,blonde,female,SWL2646,Ford,F-Series
+711470,21,"4'11""",brown,blue,male,ABW5191,GMC,Sierra 1500
+155274,23,"5'3""",green,green,female,AER6147,Oldsmobile,Aurora
+256920,39,"5'8""",amber,black,male,ABW3120,Chevrolet,Classic
+405601,46,"5'6""",amber,white,female,LH8357,Aston Martin,DBS
