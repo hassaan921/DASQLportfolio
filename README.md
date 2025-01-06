@@ -4,6 +4,10 @@ I solved this murder mystery as part of my portfolio project for atomcamp Data A
 ### Scenario:
 I was a crime analyst in a local police department. An officer gave me a [crime scene report](crime_scene_report.csv), but I accidently lost it. The only piece of information my mind retained was it was about a **murder** that probably happened on **9th March 2023** in **Atom-city**. 
 
+### How Can You Explore the Project?
+In the repository, you will find the various data sets used for the project. In addition, there is a schema diagram to facilitate understanding _primary and foreign keys_.
+The SQL queries to solve the murder can be found [here](solved mystery_sql_portfolio project.sql)
+
 ### My Steps:
 1. Uploaded all files
 2. Used primary keys and composite keys to ensure data integrity
